@@ -13,3 +13,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Designer-333333?style=flat&logo=figma)
+
+
+## Redes sociais
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/donavandodo)](www.linkedin.com/in/donavandodo)
+[![Gmail Badge](https://img.shields.io/badge/-aparecidodonavan22@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:aparecidodonavan22@gmail.com)
+[![Instagram](https://img.shields.io/badge/-@dodo.graphix-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dodo.graphix)](https://instagram.com/dodo.graphix)
