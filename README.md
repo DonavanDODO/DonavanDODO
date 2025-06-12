@@ -17,5 +17,5 @@
 
 ## Redes sociais
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/donavandodo)](www.linkedin.com/in/donavandodo)
-[![Gmail Badge](https://img.shields.io/badge/-aparecidodonavan22@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:aparecidodonavan22@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-aparecidodonavan22@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aparecidodonavan22@gmail.com)](mailto:aparecidodonavan22@gmail.com)
 [![Instagram](https://img.shields.io/badge/-@dodo.graphix-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dodo.graphix)](https://instagram.com/dodo.graphix)
